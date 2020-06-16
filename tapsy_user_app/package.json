@@ -41,7 +41,7 @@
     "crypto-js": "^3.1.9-1",
     "firebase": "^7.5.0",
     "ionic2-calendar": "^0.5.7",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "mx.ferreyra.callnumber": "0.0.2",
     "rxjs": "~6.5.1",
     "svg": "^0.1.0",
